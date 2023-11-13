@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+	
+	<PropertyGroup>
+		<TargetFramework>net7.0</TargetFramework>
+		<ImplicitUsings>disable</ImplicitUsings>
+		<Nullable>enable</Nullable>
+	</PropertyGroup>
+
+	<PropertyGroup>
+		<OutputType>library</OutputType>
+		<RootNamespace>Simian.Simulator</RootNamespace>
+		<Description>Contains the simulator execution logic + behavior</Description>
+	</PropertyGroup>
+
+</Project>

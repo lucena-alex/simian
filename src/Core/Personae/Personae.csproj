@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+	
+	<PropertyGroup>
+		<TargetFramework>net7.0</TargetFramework>
+		<ImplicitUsings>disable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+    </PropertyGroup>
+
+    <PropertyGroup>
+		<OutputType>library</OutputType>
+		<RootNamespace>Simian.Personae</RootNamespace>
+		<Description>Contains the domain / model / cast list of entities, agents, roles, etc of the simulation.</Description>
+    </PropertyGroup>
+
+</Project>
